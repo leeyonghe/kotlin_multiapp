@@ -1,1 +1,3 @@
-# kotlin_multiapp
+# 코틀린 멀티플랫폼 개발
+### 코틀린으로 이젠 멀티플랫폼으로 개발이 가능하다
+- https://kotlinlang.org/
